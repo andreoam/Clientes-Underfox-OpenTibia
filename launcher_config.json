@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "Tibia",
+	"clientFolder": "Under Fox",
 	"newClientUrl" : "https://github.com/andreoam/client13-underfox/releases/download/v1.0.0/client-to-update.zip",
 	"clientExecutable": "client.exe"
 }
