@@ -9,7 +9,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/client.exe"
 */
 {
-	"clientVersion": "13.20.13561",
+	"clientVersion": "13.21.13839",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/andreoam/client13-underfox/releases/download/v1.0.0/client-to-update.zip",
+	"newClientUrl" : "https://github.com/andreoam/Clientes-Underfox-OpenTibia/releases/download/cliente13-autoupdate/client-to-update.zip",
 	"clientExecutable": "client.exe"
 }
